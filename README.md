@@ -1,4 +1,4 @@
-ZURB-Foundation-Newsletter-Email-Template-with-MailChimp-Integration
+Responsive Email with MailChimp Integration for Mallorca.io
 ===================================
 
-Original template can found at http://www.zurb.com/playground/responsive-email-templates
+This is the custom template we use for our newsletters
